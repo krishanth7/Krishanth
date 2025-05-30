@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Krishanth</h1>
+<h1 align="center">Hi 👋, I'm Krishanth</h1>
 <h3 align="center">A passionate in AI, Machine Learning, Deep Learning Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishanth7&label=Profile%20views&color=0e75b6&style=flat" alt="krishanth7" /> </p>
