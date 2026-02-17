@@ -1,35 +1,94 @@
-<h1 align="center">Hi 👋, I'm Krishanth</h1>
-<h3 align="center">A passionate in AI, Machine Learning, Deep Learning Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishanth7&label=Profile%20views&color=0e75b6&style=flat" alt="krishanth7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishanth7" alt="krishanth7" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🧠 Tech Passion **I am passionate about building startups at the intersection of AI, and robotics. I am interests include vision, natural language processing (NLP), and nano-safety innovations.**
-
-- 📫 How to reach me **krishanth.b.2008@gmail.com**
-
-- ⚡ Fun fact **I am a tech enthusiast who combines AI, robotics, and nano-safety innovations to build futuristic startups — but on GitHub, he’s keeping his projects under wraps, making you curious about the exciting things brewing behind the scenes!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/krishanth-b-2008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="krishanth-b-2008" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/krishanth7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishanth7" height="30" width="40" /></a>
-<a href="https://instagram.com/bannu.208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bannu.208" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@skyntheai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@skyntheai" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:141414&height=230&section=header&text=Krishanth&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Robotics+Engineer;Startup+Founder;Full+Stack+Technologist;Engineering+Intelligent+Systems;Luminexia+Technologies&center=true&width=650&height=45">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishanth7&show_icons=true&locale=en&layout=compact" alt="krishanth7" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krishanth7&label=Live+Profile+Views&color=grey&style=flat" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishanth7&show_icons=true&locale=en" alt="krishanth7" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishanth7&" alt="krishanth7" /></p>
+## 🏢 Luminexia Engineering Lab
+
+AI & Robotics engineer building intelligent automation platforms, advanced safety systems, and scalable engineering infrastructure.
+
+Founder of **Luminexia**, focused on merging AI, robotics, and real-world hardware intelligence.
+
+> Mission: Expand human capability through intelligent engineering.
+
+---
+
+## 🧠 Core Engineering Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,nodejs,react,git,linux,docker,cpp,arduino,raspberrypi&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineering-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Robotics%20Systems-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Architecture-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-111111?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge">
+</p>
+
+---
+
+## 🚀 Live Engineering Portfolio (Auto Updating)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishanth7&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishanth7&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishanth7&theme=github_dark" />
+</p>
+
+> Portfolio updates automatically as repositories grow.
+
+---
+
+## 📊 Real-Time Engineering Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishanth7&show_icons=true&theme=dark&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishanth7&theme=dark&hide_border=true">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishanth7&theme=github-dark&hide_border=true"/>
+</p>
+
+> Activity updates live with every commit.
+
+---
+
+## 🐍 Live Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> Snake animation refreshes automatically from the contribution graph.
+
+---
+s
+## 🌐 Professional Contact
+
+Email: krisahnth4@email.com  
+Instagram: instagram.com/krishanth_7_
+
+---
+
+<p align="center">
+  Engineering intelligent systems for the future
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141414,100:050505&height=120&section=footer"/>
+</p>
