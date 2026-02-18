@@ -74,7 +74,7 @@ Founder of **Luminexia**, focused on merging AI, robotics, and real-world hardwa
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> Snake animation refreshes automatically from the contribution graph.
+> Animation refreshes automatically from the contribution graph.
 
 ---
 s
