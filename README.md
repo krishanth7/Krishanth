@@ -77,7 +77,7 @@ Founder of **Luminexia**, focused on merging AI, robotics, and real-world hardwa
 > Animation refreshes automatically from the contribution graph.
 
 ---
-s
+
 ## 🌐 Professional Contact
 
 Email: krisahnth4@email.com  
